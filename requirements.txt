@@ -19,7 +19,6 @@ executing
 fiona==1.9.6
 folium
 fonttools
-GDAL==3.9.2
 geopandas
 h2
 hpack==4.0.0
@@ -41,7 +40,7 @@ matplotlib
 matplotlib-inline
 mkl-fft
 mkl-random
-mkl-service==2.4.0
+mkl-service
 nest-asyncio
 networkx
 numexpr
@@ -68,7 +67,6 @@ pystac==1.10.1
 pystac-client==0.8.3
 python-dateutil
 pytz
-pywin32==305.1
 pyzmq
 referencing==0.35.1
 requests
